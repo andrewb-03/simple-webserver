@@ -7,7 +7,7 @@
 - **Threaded request handling** using a fixed thread pool.
 - **PUT** creates/overwrites files, **DELETE** removes them, with correct status responses.
 
-**Feel welcomed to clone the repository and run tests on your own**
+**Feel free to clone the repository and run tests on your own**
 
 🛠 Setup & Running
 
